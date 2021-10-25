@@ -1,0 +1,6 @@
+# Ignore virtual environment
+venv
+# Ignore list files to test
+*.lst
+# Ignore outputs from the programme
+*.out
